@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.rookepoole.zen-breather",
+  "name": "Zen Breather",
+  "version": "1.0.0",
+  "author": "Rooke Poole",
+  "license": "MIT",
+  "description": "A calm, theme-aware guided-breathing overlay for Omarchy.",
+  "kinds": ["overlay"],
+  "entryPoints": { "overlay": "Overlay.qml" },
+  "keepLoaded": true
+}
